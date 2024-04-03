@@ -1,2 +1,2 @@
 # Omar Kasera
- Sample practise codes and projects.
+ Sample practice codes and projects.
