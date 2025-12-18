@@ -61,7 +61,7 @@ The `My Codes - C program` directory contains 50 C programs organized by topic:
 - **GCD Programs**: Multiple implementations for finding Greatest Common Divisor
   - `GCD.c` - Basic GCD algorithm
   - `GCD Function.c` - GCD using functions
-  - `Finding GCD(Euclidian Algorithm).c` - Euclidean algorithm implementation
+  - `Finding GCD(Euclidian Algorithm).c` - Euclidean algorithm implementation (note: filename has typo)
   - `Recursive GCD.c` - Recursive approach
 - **LCM Programs**: Various Least Common Multiple implementations
   - `LCM.c`, `LCM2.c`, `LCM 3.c` - Different LCM algorithms
@@ -107,7 +107,7 @@ The `My Codes - C program` directory contains 50 C programs organized by topic:
 - `Recursive Function 2.c` - Advanced recursion
 
 #### 7. **Utility Programs**
-- `Calulator.c` - Basic calculator
+- `Calulator.c` - Basic calculator (note: filename has typo, should be "Calculator")
 - `Clock.c` - Time-related operations
 - `Max btn numbers.c` - Finding maximum
 - `Area.c` - Area calculations
