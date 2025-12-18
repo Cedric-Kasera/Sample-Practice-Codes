@@ -62,9 +62,10 @@ The `My Codes - C program` directory contains 50 C programs organized by topic:
   - `GCD.c` - Basic GCD algorithm
   - `GCD Function.c` - GCD using functions
   - `Finding GCD(Euclidian Algorithm).c` - Euclidean algorithm implementation (note: filename has typo)
-  - `Recursive GCD.c` - Recursive approach
+  - `Recursive GCD.C` - Recursive approach
+  - `GCD 1.C` - Alternative GCD implementation
 - **LCM Programs**: Various Least Common Multiple implementations
-  - `LCM.c`, `LCM2.c`, `LCM 3.c` - Different LCM algorithms
+  - `LCM.c`, `LCM2.c`, `LCM 3.C` - Different LCM algorithms
   - `LCM Function.c` - Function-based LCM
 - **Factorial Programs**
   - `Factorial function 1.c` - Factorial calculation
@@ -109,8 +110,8 @@ The `My Codes - C program` directory contains 50 C programs organized by topic:
 #### 7. **Utility Programs**
 - `Calulator.c` - Basic calculator (note: filename has typo, should be "Calculator")
 - `Clock.c` - Time-related operations
-- `Max btn numbers.c` - Finding maximum
-- `Area.c` - Area calculations
+- `Max btn numbers.C` - Finding maximum between numbers (note: 'btn' is abbreviated 'between')
+- `Area.C` - Area calculations
 
 #### 8. **Advanced Concepts**
 - `null pointer.cpp` - Pointer concepts
@@ -180,7 +181,7 @@ gcc "My Codes - C program/Fibonacci sequence.c" -o fibonacci
 gcc -O2 "My Codes - C program/GCD Function.c" -o gcd
 
 # Compile with all warnings
-gcc -Wall "My Codes - C program/Calculator.c" -o calculator
+gcc -Wall "My Codes - C program/Calulator.c" -o calculator
 ```
 
 **Using Windows Command Prompt:**
