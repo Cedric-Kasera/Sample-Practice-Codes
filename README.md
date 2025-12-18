@@ -22,7 +22,7 @@ A comprehensive collection of C and C++ programming practice codes covering fund
 
 ## 🎯 Overview
 
-This repository contains a diverse collection of practice programs written in C and C++. These programs are designed to help learners understand fundamental programming concepts, data structures, algorithms, and object-oriented programming principles. Each program focuses on specific topics ranging from basic loops and conditionals to more advanced concepts like recursion, classes, and mathematical computations.
+This repository contains a diverse collection of practice programs written in C and C++ (55+ programs total). These programs are designed to help learners understand fundamental programming concepts, data structures, algorithms, and object-oriented programming principles. Each program focuses on specific topics ranging from basic loops and conditionals to more advanced concepts like recursion, classes, and mathematical computations.
 
 ## 📁 Repository Structure
 
@@ -55,7 +55,7 @@ Sample-Practice-Codes/
 
 ### C Programs
 
-The `My Codes - C program` directory contains 50 C programs organized by topic:
+The `My Codes - C program` directory contains 43 C programs (plus 5 C++ programs) organized by topic:
 
 #### 1. **Mathematical Algorithms**
 - **GCD Programs**: Multiple implementations for finding Greatest Common Divisor
