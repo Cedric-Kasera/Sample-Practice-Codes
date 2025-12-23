@@ -20,8 +20,4 @@
 - Added abbreviation explanations (`btn` = between)
 
 
-
-<!-- START COPILOT CODING AGENT TIPS -->
----
-
-💬 We'd love your input! Share your thoughts on Copilot coding agent in our [2 minute survey](https://gh.io/copilot-coding-agent-survey).
+I'd appreciate your support! Feel free to share any C/C++ practice programs for students. Thanks😎🧑‍💻
